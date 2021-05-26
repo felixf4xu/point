@@ -3,6 +3,6 @@
 /// More dartdocs go here.
 library point;
 
-export 'src/point_base.dart';
+export 'core/application.dart';
 
 // TODO: Export any libraries intended for clients of this package.

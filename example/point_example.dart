@@ -1,6 +1,9 @@
 import 'package:point/point.dart';
 
 void main() {
-  var awesome = Awesome();
-  print('awesome: ${awesome.isAwesome}');
+  final app = Application();
+  //final mainWindow = MainWindow();
+  //mainWindow.Show();
+
+  app.Exec();
 }
